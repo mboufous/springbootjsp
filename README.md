@@ -1,4 +1,4 @@
-# springbootjsp
+# spring boot jsp
 
 spring-boot-sample-web-jsp
 
